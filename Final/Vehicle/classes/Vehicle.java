@@ -1,3 +1,5 @@
+package classes;
+
 public class Vehicle {
     public String name;
     public int plateNumber;

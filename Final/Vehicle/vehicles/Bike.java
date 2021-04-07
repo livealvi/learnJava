@@ -1,3 +1,7 @@
+package vehicles;
+
+import classes.Vehicle;
+
 public class Bike extends  Vehicle{
     public String brandName;
 
